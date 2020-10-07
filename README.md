@@ -5,3 +5,7 @@ A frequently asked question of Python Beginners is: "Do I need to become an expe
 The clear answer is: "No!
 
 You require some Python Basics like data types, simple operations/operators, lists and numpy arrays. 
+
+For datasets mail me:
+elguneminov@inbox.ru
+

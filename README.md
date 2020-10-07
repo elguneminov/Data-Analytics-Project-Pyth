@@ -7,4 +7,4 @@ The clear answer is: "No!
 You require some Python Basics like data types, simple operations/operators, lists and numpy arrays. 
 
 For datasets mail me:
-https://e.mail.ru/inbox/?back=1&afterReload=1
+elguneminov@inbox.ru
